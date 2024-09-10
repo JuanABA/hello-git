@@ -1,1 +1,1 @@
-print('hello git 2.0, para mirar el git')
+print('hello git 2.0')
